@@ -3,6 +3,7 @@
 
 places = [
   'Asia Today',
+  'Cafe Camera',
   'Dragon Lounge',
   'Döner',
   'Hans im Glück',
