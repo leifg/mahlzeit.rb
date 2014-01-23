@@ -6,6 +6,7 @@ places = [
   'Cafe Camera',
   'Dragon Lounge',
   'Döner',
+  'Hacker Bräuhaus',
   'Hans im Glück',
   'Sinans',
   'Tryp',
